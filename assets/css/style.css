@@ -27,6 +27,11 @@
 .cursor.active {
   animation: active-cursor 200ms ease forwards running;
 }
+
+#no-style-link {
+  all: unset; /* Reset all styles */
+  display: inline; /* Maintain its inline behavior */
+}
 .cursor p {
   font-family: "Teko", sans-serif;
   font-size: 5px;
