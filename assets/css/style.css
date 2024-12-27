@@ -1048,6 +1048,7 @@ section .container {
 }
 
 .contact .info-box h3 {
+  margin-top: 0 !important;
   font-family: "Glory", sans-serif;
   font-size: 22px;
   color: rgba(255, 255, 255, 0.5);
